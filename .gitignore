@@ -1,0 +1,19 @@
+# Python
+PYTHON/venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Go
+GO/bin/
+GO/pkg/
+
+# Rust
+RUST/target/
+
+# Database
+*.sqlite
+
+# General
+.DS_Store
